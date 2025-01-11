@@ -26,7 +26,7 @@ The dataset used in this workshop is **Adult.csv**, which contains demographic a
 ---
 
 ## Author
-mts
+mfs
 
 ---
 
