@@ -1,6 +1,6 @@
 # Data Exploration with Pandas
 
-<div>
+<div align="center">
 
 <img height="400" width="800" src="https://cdn.prod.website-files.com/666bbba4ff7240a20f4cccf8/666bbba4ff7240a20f4ce4da_Data%20Exploration%20(1).png">
 
